@@ -4,6 +4,6 @@
 - CommandAliases (port of [Kneesnap](https://github.com/Kneesnap/CommandAliases)'s one): Not public (yet)
 
 ### PaperMC
-- BetterViewDistance (for ): [GitHub page](https://github.com/Nolezor/BetterViewDistance-Paper) [Paper page](https://forums.papermc.io/threads/betterviewdistance-1-0-1.675/#post-2790)
+- BetterViewDistance (for user JetStarfish): [GitHub page](https://github.com/Nolezor/BetterViewDistance-Paper) [Paper page](https://forums.papermc.io/threads/betterviewdistance-1-0-1.675/#post-2790)
 - ChatUtilitiesPlus (for VanillaAnarchy.net): Not Public (yet)
 - DonatorsTracker (for VanillaAnarchy.net): Not Public (won't be useful since it's custom made for their Donation System)

@@ -7,3 +7,5 @@ ___
 - 🤔 I’m always eager to learn how things works on a deeper level.
 - 📫 How to reach me: Discord: @nolezor Telegram: @nolezor
 - ⚡ Fun fact: My username is an anagram of my real name
+___
+If you are here for my Minecraft Plugins consider checking the list [here](https://github.com/Nolezor/Nolezor/blob/main/mcPlugins.md) 

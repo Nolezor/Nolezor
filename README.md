@@ -3,9 +3,11 @@ My name is Lorenzo, I'm a student at "Sapienza Università di Roma", I've a lot 
 
 ___
 - 🔭 I’m currently working to become a Computer Scientist in the future.
-- 🌱 Studying for my Digital Electronics exam (Thanks [Neso Academy](https://www.youtube.com/@nesoacademy)).
+- 🌱 "Relaxing" until next semester.
 - 🤔 I’m always eager to learn how things works on a deeper level.
-- 📫 How to reach me: Discord: @nolezor Telegram: @nolezor
+- 📫 How to reach me:
+  - Discord: @nolezor
+  - Telegram: @nolezor
 - ⚡ Fun fact: My username is an anagram of my real name
 ___
 If you are here for my Minecraft Plugins consider checking the list [here](https://github.com/Nolezor/Nolezor/blob/main/mcPlugins.md) 

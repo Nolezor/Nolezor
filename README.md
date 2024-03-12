@@ -3,7 +3,7 @@ My name is Lorenzo, I'm a student at "Sapienza Università di Roma", I've a lot 
 
 ___
 - 🔭 I’m currently working to become a Computer Scientist in the future.
-- 🌱 Ready for this semester.
+- 🌱 Best semester course by far: "Architettura degli Elaboratori".
 - 🤔 I’m always eager to learn how things works on a deeper level.
 - 📫 How to reach me:
   - Discord: @nolezor

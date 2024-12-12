@@ -5,6 +5,7 @@ ___
 - 📖 I’m currently studying to become a Data Scientist in the future.
 - 🌱 Interested in Robotics, Automation and AI.
 - 🤔 I’m always eager to learn how things works on a deeper level.
+- 🧑🏼‍💻 Working as a software developer for [INAF](https://www.oa-roma.inaf.it/).
 - 📫 How to reach me:
   - Discord: @nolezor
   - Telegram: @nolezor
